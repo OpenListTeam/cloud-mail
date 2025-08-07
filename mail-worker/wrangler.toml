@@ -1,10 +1,10 @@
-name = "cloud-mail"
+name = "cloudweb-mail-page"
 main = "src/index.js"
 compatibility_date = "2025-07-29"
 keep_vars = true
 
 [observability]
-enabled = true
+enabled = false
 
 #[[d1_databases]]
 #binding = "db"			#d1数据库绑定名默认不可修改
